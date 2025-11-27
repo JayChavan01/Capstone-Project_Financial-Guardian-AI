@@ -218,16 +218,9 @@ class AgentMessage:
 
 <div align="center">
 
-![Financial Dashboard](Media/Overall Financial Health Dashboard.jpg)
+![Financial Dashboard](https://github.com/JayChavan01/Capstone-Project_Financial-Guardian-AI/blob/main/Media/Overall%20Financial%20Health%20Dashboard.jpg)
 
 *Comprehensive financial health dashboard with real-time metrics and AI insights*
-
-</div>
-
-<div align="center">
-(https://github.com/JayChavan01/Capstone-Project_Financial-Guardian-AI/blob/main/Media/Overall%20Financial%20Health%20Dashboard.jpg)
-
-Comprehensive financial health dashboard with real-time metrics and AI insights
 
 </div>
 
