@@ -225,6 +225,16 @@ class AgentMessage:
 
 </div>
 
+### 📈 Dashboard Preview
+
+<div align="center">
+
+![Financial Dashboard](https://github.com/JayChavan01/Capstone-Project_Financial-Guardian-AI/raw/main/Media/Overall%20Financial%20Health%20Dashboard.jpg)
+
+*Comprehensive financial health dashboard with real-time metrics and AI insights*
+
+</div>
+
 ### 🎯 Dashboard Capabilities
 
 - **🎯 Overall Health Score** - Real-time financial wellness assessment (0-100 scoring)
