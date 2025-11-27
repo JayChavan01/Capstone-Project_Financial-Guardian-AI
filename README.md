@@ -520,10 +520,6 @@ financial-guardian-ai/
 - **🎬 Demo Video**: [Live System Demonstration](https://youtu.be/NvKiGwRKdRs)
 - **💬 Discussions**: [Community Forum](https://github.com/yourusername/financial-guardian-ai/discussions)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 <div align="center">
