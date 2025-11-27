@@ -570,5 +570,6 @@ financial-guardian-ai/
 - **⚡ Scalability**: 50+ concurrent users supported
 
 ---
-
+<div align="center">
 **Built with ❤️ for financial empowerment and technical excellence**
+</div>
