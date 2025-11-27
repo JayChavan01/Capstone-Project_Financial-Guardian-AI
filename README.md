@@ -1,4 +1,4 @@
-# 🚀 Financial Guardian AI - Enterprise Multi-Agent Financial Advisory System
+# Financial Guardian AI - Enterprise Multi-Agent Financial Advisory System
 
 <div align="center">
 
