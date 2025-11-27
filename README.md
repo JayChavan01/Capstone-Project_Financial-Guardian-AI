@@ -15,6 +15,11 @@
 [![Live Demo](https://img.shields.io/badge/🎬-Watch_Video_Demo-red)](https://youtu.be/NvKiGwRKdRs)
 [![API Documentation](https://img.shields.io/badge/🔗-API_Docs-orange)](https://your-api-link.com)
 [![Technical Docs](https://img.shields.io/badge/📚-Technical_Docs-green)](docs/)
+[![Live Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NvKiGwRKdRs)
+[![Live Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NvKiGwRKdRs)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&label=Watch%20Demo)](https://youtu.be/NvKiGwRKdRs)
+[![Video Demo](https://img.shields.io/badge/▶️_Watch_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NvKiGwRKdRs)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Watch%20Video%20Demo)](https://youtu.be/NvKiGwRKdRs)
 
 </div>
 
@@ -571,5 +576,5 @@ financial-guardian-ai/
 
 ---
 <div align="center">
-###Built with ❤️ for financial empowerment and technical excellence
+<strong>Built with ❤️ for financial empowerment and technical excellence</strong>
 </div>
