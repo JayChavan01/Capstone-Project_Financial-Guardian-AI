@@ -224,6 +224,13 @@ class AgentMessage:
 
 </div>
 
+<div align="center">
+https://Media/Overall%2520Financial%2520Health%2520Dashboard.jpg
+
+Comprehensive financial health dashboard with real-time metrics and AI insights
+
+</div>
+
 ### 🎯 Dashboard Capabilities
 
 - **🎯 Overall Health Score** - Real-time financial wellness assessment (0-100 scoring)
