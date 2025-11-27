@@ -218,9 +218,9 @@ class AgentMessage:
 
 <div align="center">
 
-![Financial Dashboard](Dashboard..jpg)
-![Dashboard](https://github.com/user-attachments/assets/51551b6c-7647-4097-9b24-211f4504c5d7)
+![Financial Dashboard]Media/Overall Financial Health Dashboard.jpg
 
+Media/Overall Financial Health Dashboard.jpg
 
 *Comprehensive financial health dashboard with real-time metrics and AI insights*
 
